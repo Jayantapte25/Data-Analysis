@@ -1,0 +1,3 @@
+import numpy as np
+
+lending_co_data_numeric = np.loadtxt()
